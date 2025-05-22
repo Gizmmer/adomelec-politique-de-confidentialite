@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Politique de Confidentialité - MonInter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2em;
+            max-width: 800px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0055a5;
+        }
+        a {
+            color: #0077cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Politique de Confidentialité</h1>
+    <p>Dernière mise à jour : 22 mai 2025</p>
+
+    <p>Adomelec ("nous", "notre", "nos") s'engage à protéger et respecter votre vie privée. Cette politique de confidentialité explique comment nous collectons, utilisons et partageons les données via notre application mobile <strong>Adomelec</strong>.</p>
+
+    <h2>Données collectées</h2>
+    <p>Notre application permet aux utilisateurs (commerçants) de saisir manuellement leurs données de consommation énergétique afin de visualiser et analyser ces informations. Nous ne collectons pas automatiquement les données de consommation énergétique.</p>
+    <p>Nous utilisons également un système de connexion par email pour authentifier les utilisateurs.</p>
+
+    <h2>Utilisation des données</h2>
+    <p>Les données saisies sont utilisées pour générer des analyses et visualisations afin d’aider les utilisateurs à mieux comprendre leur consommation énergétique.</p>
+    <p>Les informations d’authentification sont utilisées uniquement pour gérer l’accès sécurisé à l’application.</p>
+
+    <h2>Partage des données</h2>
+    <p>Nous ne partageons pas vos données personnelles avec des tiers sans votre consentement, sauf si la loi l’exige.</p>
+
+    <h2>Firebase et Google Analytics</h2>
+    <p>Notre application utilise Firebase pour l’authentification et Firebase Crashlytics pour le suivi des erreurs. Nous n’utilisons pas Google Analytics.</p>
+
+    <h2>Vos droits</h2>
+    <p>Vous pouvez accéder, modifier ou supprimer vos données personnelles en contactant notre support.</p>
+
+    <h2>Sécurité</h2>
+    <p>Nous mettons en place des mesures techniques et organisationnelles pour protéger vos données.</p>
+
+    <h2>Contact</h2>
+    <p>Pour toute question relative à cette politique de confidentialité, veuillez nous contacter à : <a href="mailto:support@adomelec.com">support@adomelec.com</a>.</p>
+
+    <p>Merci d’utiliser Adomelec.</p>
+</body>
+</html>
